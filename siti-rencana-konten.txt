@@ -2,5 +2,8 @@ RENCANA KONTEN
 
 - Javascript
   *Framwork Javascript
+  ^ Vue
 - Struktur Data Dasar
+- PHP Frameworks
+  ^ Laravel
 - Vlogs
