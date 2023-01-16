@@ -2,4 +2,5 @@ RENCANA KONTEN
 
 - Javascript
   *Framwork Javascript
+- Struktur Data Dasar
 - Vlogs
